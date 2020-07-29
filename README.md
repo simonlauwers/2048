@@ -1,6 +1,6 @@
 # 2048
 ## About
-2048-clone made in first year of college at Karel de Grote Hogeschool.
+2048-clone made in first year of college at Karel de Grote Hogeschoo, Antwerp.
 ## Structure
 It is written in JavaFX and implements the model-view-presenter (MVP) architechtural pattern.
 ## Disclaimer
